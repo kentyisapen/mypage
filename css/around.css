@@ -1,3 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-color: #afeeee;
+}
+
+#second-body{
+    width: 900px;
+    background-color: azure;
 }
